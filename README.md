@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Olá 👋, Eu sou o Alex Vicente</h1>
-<h3 align="center">Um apaixonado desenvolvedor do Brasil</h3>
+<h3 align="center"> Engenheiro de Software </h3>
 
 <!--
 **AlexVicente1/AlexVicente1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
