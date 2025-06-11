@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
-<a href="https://www.linkedin.com/in/leonardoalexvicente/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="leonardoalexvicente" /></a>
-</p>
+
 
 ---
 
