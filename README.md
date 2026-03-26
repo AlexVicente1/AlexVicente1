@@ -40,8 +40,6 @@ Engenheiro de Software em transição de carreira, com mais de 7 anos de experi�
 
 ### 🛠 &nbsp;Habilidades
 
-### 🛠 &nbsp;Habilidades
-
 <p align="left">
 <a href="https://golang.org/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8" alt="go" />
