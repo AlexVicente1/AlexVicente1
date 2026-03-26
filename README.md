@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="left">
 Engenheiro de Software em transição de carreira, com mais de 4 anos de experiência em Qualidade e Otimização de Processos, agora focado em desenvolvimento Backend. Minha paixão é aplicar uma mentalidade analítica e orientada à qualidade para construir software robusto, eficiente e escalável.
 <br><br>
-- 🌱 Atualmente estou aprofundando minhas competências em <b>Go (Golang)</b>, com foco na criação de APIs RESTful e serviços de alta performance.
+- 🌱 Atualmente estou aprofundando minhas competências em <b>Go (Golang) e (Java)</b>, com foco na criação de APIs RESTful e serviços de alta performance.
 <br>
 - 🔭 Tenho experiência prática com o projeto <b>Medicontrol</b>, uma API para o setor de Health Tech.
 <br>
