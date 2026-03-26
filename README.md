@@ -40,11 +40,36 @@ Engenheiro de Software em transição de carreira, com mais de 7 anos de experi�
 
 ### 🛠 &nbsp;Habilidades
 
+### 🛠 &nbsp;Habilidades
+
 <p align="left">
-<a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8" alt="go" /></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="python" /></a>
-<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="powerbi" /></a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="selenium" /></a>
+<a href="https://golang.org/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8" alt="go" />
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="java" />
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html5" />
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css3" />
+</a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/UX%2FUI%20Design-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="ux/ui" />
+</a>
+
+<a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="powerbi" />
+</a>
 </p>
 
 ---
